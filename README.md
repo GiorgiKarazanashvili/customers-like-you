@@ -35,7 +35,7 @@ The notebook uses a fixed random seed (42), so results are the same on every run
 ```
 src/build_matrix.py        data cleaning, time split and sparse matrix (DE1-DE6)
 notebooks/analysis.ipynb   method choice, k selection, recommender, evaluation, PCA vs SVD, customer map (ML1-ML6)
-reports/                   data profile, cleaning log, matrix report, memo
+reports/                   data profile, cleaning log, matrix report, memo, individual reflection
 figures/                   k selection curve and customer map
 decision_log.md            every decision and its reason
 contribution_log.md        who did what, with evidence
