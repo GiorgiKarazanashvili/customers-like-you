@@ -1,0 +1,14 @@
+# Raw and processed data are not committed (brief, Step 0)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
