@@ -11,10 +11,10 @@ Set before any modelling. The project succeeds if:
 
 | # | Target | Result |
 |---|--------|--------|
-| 1 | Stored factors are at least 20x smaller than the dense customer x product matrix | 7.3 MB vs 161.3 MB (22x) ✅ |
-| 2 | The nightly job runs in under 60 seconds on a laptop | About 1 second ✅ |
-| 3 | Recommendations beat the best-seller baseline on hit rate @10, on purchases the model never saw | 38.3% vs 27.0% ✅ |
-| 4 | The customer map shows 3 to 6 groups that can be named from their products and countries | 4 named groups ✅ |
+| 1 | Stored factors are at least 20x smaller than the dense customer x product matrix | 7.3 MB vs 161.3 MB (22x) |
+| 2 | The nightly job runs in under 60 seconds on a laptop | About 1 second |
+| 3 | Recommendations beat the best-seller baseline on hit rate @10, on purchases the model never saw | 38.3% vs 27.0% |
+| 4 | The customer map shows 3 to 6 groups that can be named from their products and countries | 4 named groups |
 
 ## Data
 UCI Online Retail II: https://archive.ics.uci.edu/dataset/502/online+retail+ii (CC BY 4.0).
